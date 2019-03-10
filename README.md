@@ -6,7 +6,7 @@
 
 <p align="center">
   "If I have seen further it is by standing on the shoulders of Giants."
-  - Issac Newton
+  - <strong>Issac Newton</strong>
 </p>
 
 ------
@@ -14,10 +14,10 @@
 **ProjectX** is the program run by Aficionados (Programming Society, NIT Goa) which aims on making newbies (**Cadets**) of campus aware about `fun, opportunities, challenges and realities` of Computer Science and its Sub-Streams. 
 
 ### How to get involved ?
-1. Cadets should directly contact captains and apply for getting into teams based on Captain's profile.
-2. While applying, mention the reason why you are opting out for certain team and what familiarities(If any) you have about the feild.
-3. Captains will choose cadets(`one from each junior year`) which they will take under their team.
-4. Done.
+1. Cadets should apply for getting into teams based on Captains profile.
+2. Captains will choose cadets(`one or more from each junior year`) which they will take under their team.
+3. Done.
+
 
 > **Note:** Each Team will have only four members! Cadets can apply for multiple teams.
 
@@ -53,16 +53,39 @@
 ### Cadets:
 | `Team`| `Cadets`|
 |-|-|
-| TeamCaptainFreak | Nikita Chaudhary, Saswat Srivastava |
-| TeamAndys | Archit, Jatin Kataria, Prakhar Gupta |
-| CrusherS | Pratiyush Prakash , Ravindra saini, Ashutosh Kabra |
-| The_Team_Has_No_Name | Gautam Mishra, Jovian Dsouza, Prathyusha P |
-| CodePundits | Jay Dhangar, Aparimeet, Aashay W |
-| CodeReapers | Prashant Ramotra, Poonam Nahata, Deepak Kumar |
-| TheWanderers | Sohail, Chanadana, Rahul |
-| TeamPapa | Milind, Sangram patil, Ved prakash |
+| TeamCaptainFreak | Nikita Chaudhary, Prathyusha P, Saswat Srivastava, Piyush |
+| TeamAndys | Archit, Jatin Kumar, Prakhar Gupta, Apurva Kanekar |
+| CrusherS | Ravindra saini, Ashutosh Kabra, Sireeja Uppal, Mark D'Souza |
+| The_Team_Has_No_Name | Gautam Mishra, Jovian Dsouza, Bhargav Kesa, Shashikant |
+| CodePundits | Jay Dhangar, Aparimeet, Aashay W, Akash Singh |
+| CodeReapers | Prashant Ramotra, Poonam Nahata, Deepak Kumar, Rohit Karthik |
+| TheWanderers | Sohail, Chanadana, Rahul, Pawan Gulati |
+| TeamPapa | Milind, Sangram patil, Ved prakash, Pooja Yadav |
 
 ----
+
+### Challenges:
+| `Sr.`| `Challenge Name`| `Team`|`Date`| `Link`|
+|-|-|-|-|-|
+| 1 | Git And Github | TeamCaptainFreak | 28/10/2018 | [Link](https://github.com/NITG-Aficionados/ProjectX/tree/master/GitAndGithub) |
+| 2 | AlgoRhythm | TeamAndyS | 11/12/2018 | [Link](https://github.com/NITG-Aficionados/ProjectX/tree/master/AlgoRhythm) |
+
+----
+
+### LeaderBoard:
+| `Rank`| `Team`| `Points`|
+|-|-|-|
+| 1 | The_Team_Has_No_Name | 235 |
+| 2 | TeamPapa | 148 |
+| 3 | TeamAndys | 145 |
+| 4 | CodeReapers | 107 |
+| 5 | CodePundits | 114 |
+| 6 | TheWanderers | 97 |
+| 7 | TeamCaptainFreak | 86 |
+| 8 | CrusherS | 75 |
+
+----
+
 <p align="center">
   Aficionados, NIT Goa
 </p>
